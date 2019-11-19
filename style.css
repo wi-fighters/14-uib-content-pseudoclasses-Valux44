@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(165, 55, 55);
+}
+
+a:link {
+  color: aquamarine;
+}
+a:visited {
+  color: aqua;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+a:active {
+  color: black;
+}
